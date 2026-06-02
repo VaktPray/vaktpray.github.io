@@ -191,6 +191,7 @@ h3 {
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  width: min(100%, 610px);
   min-height: 62px;
   background: var(--green);
   border-radius: 8px;
