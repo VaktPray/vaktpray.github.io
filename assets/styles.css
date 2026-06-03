@@ -183,6 +183,13 @@ h3 {
   font-size: clamp(1.08rem, 2vw, 1.35rem);
 }
 
+.lede-emphasis {
+  display: block;
+  margin-top: 12px;
+  color: var(--ink);
+  font-weight: 900;
+}
+
 .screenshots-cta {
   padding: 0 0 34px;
 }

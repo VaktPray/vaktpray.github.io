@@ -27,6 +27,7 @@
       home: {
         heroEyebrow: "Prayer times for iPhone",
         heroText: "An offline iOS app focused exclusively on Islamic prayer times for 🇧🇦 Bosnia and Herzegovina, with daily prayer notifications, widgets, night-time information, and Apple Watch support. No data collected.",
+        languageAvailability: "The full app UI, in-app screens, widgets, and Apple Watch views are available equally in English and Bosnian.",
         screenshotsButton: "Screenshots",
         detailsEyebrow: "App Details",
         detailsTitle: "Built for daily prayer time checks",
@@ -48,6 +49,7 @@
         eyebrow: "Screenshots",
         title: "VaktPray Screenshots",
         lede: "A closer look at the prayer time screens, iPhone widgets, Apple Watch views, notification settings, and app information pages.",
+        languageAvailability: "The full app UI, in-app screens, widgets, and Apple Watch views are available equally in English and Bosnian.",
         prayerEyebrow: "Prayer Times",
         prayerTitle: "Daily prayer schedule views",
         bosnianHomeAlt: "Bosnian prayer time screen showing the selected city, date, current time, and daily prayer schedule.",
@@ -172,6 +174,7 @@
       home: {
         heroEyebrow: "Vaktija za iPhone",
         heroText: "Offline iOS aplikacija namijenjena isključivo islamskim vremenima namaza u 🇧🇦 Bosni i Hercegovini, s obavijestima za dnevne namaze, widgetima, informacijama o noćnom vremenu i podrškom za Apple Watch. Podaci se ne prikupljaju.",
+        languageAvailability: "Cijeli interfejs aplikacije, ekrani u aplikaciji, widgeti i Apple Watch prikazi dostupni su jednako na engleskom i bosanskom jeziku.",
         screenshotsButton: "Snimci ekrana",
         detailsEyebrow: "Detalji aplikacije",
         detailsTitle: "Napravljena za svakodnevnu provjeru vakta",
@@ -193,6 +196,7 @@
         eyebrow: "Snimci ekrana",
         title: "VaktPray snimci ekrana",
         lede: "Detaljniji prikaz ekrana vaktije, iPhone widgeta, Apple Watch prikaza, postavki obavijesti i informacija o aplikaciji.",
+        languageAvailability: "Cijeli interfejs aplikacije, ekrani u aplikaciji, widgeti i Apple Watch prikazi dostupni su jednako na engleskom i bosanskom jeziku.",
         prayerEyebrow: "Vaktija",
         prayerTitle: "Dnevni prikazi rasporeda namaza",
         bosnianHomeAlt: "Bosanski ekran vaktije koji prikazuje odabrani grad, datum, trenutno vrijeme i dnevni raspored namaza.",
