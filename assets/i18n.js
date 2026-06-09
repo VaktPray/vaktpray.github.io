@@ -28,6 +28,7 @@
         heroEyebrow: "Prayer times for iPhone",
         heroText: "An offline iOS app focused exclusively on Islamic prayer times for 🇧🇦 Bosnia and Herzegovina, with daily prayer notifications, widgets, night-time information, and Apple Watch support. No data collected.",
         languageAvailability: "Everything you see in the app, including all screens, widgets, and Apple Watch views, is available in both English and Bosnian.",
+        appStoreButton: "Download on the App Store",
         screenshotsButton: "Screenshots",
         detailsEyebrow: "App Details",
         detailsTitle: "Built for daily prayer time checks",
@@ -43,7 +44,8 @@
         watchBody: "Apple Watch support keeps prayer time information available from your wrist.",
         linksEyebrow: "App Store Links",
         linksTitle: "Public URLs",
-        linksBody: "These pages are available for users and App Store review."
+        linksBody: "These pages are available for users and App Store review.",
+        appStoreLinkLabel: "App Store"
       },
       screenshots: {
         eyebrow: "Screenshots",
@@ -175,6 +177,7 @@
         heroEyebrow: "Vaktija za iPhone",
         heroText: "Offline iOS aplikacija namijenjena isključivo islamskim vremenima namaza u 🇧🇦 Bosni i Hercegovini, s obavijestima za dnevne namaze, widgetima, informacijama o noćnom vremenu i podrškom za Apple Watch. Podaci se ne prikupljaju.",
         languageAvailability: "Sve što vidite u aplikaciji, uključujući sve ekrane, widgete i Apple Watch prikaze, dostupno je na engleskom i bosanskom jeziku.",
+        appStoreButton: "Preuzmi na App Storeu",
         screenshotsButton: "Snimci ekrana",
         detailsEyebrow: "Detalji aplikacije",
         detailsTitle: "Napravljena za svakodnevnu provjeru vakta",
@@ -190,7 +193,8 @@
         watchBody: "Podrška za Apple Watch omogućava da informacije o vaktu budu dostupne na vašem zglobu.",
         linksEyebrow: "App Store linkovi",
         linksTitle: "Javni URL-ovi",
-        linksBody: "Ove stranice su dostupne korisnicima i App Store pregledu."
+        linksBody: "Ove stranice su dostupne korisnicima i App Store pregledu.",
+        appStoreLinkLabel: "App Store"
       },
       screenshots: {
         eyebrow: "Snimci ekrana",
